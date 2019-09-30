@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testing-1.0.dtd">
+<suite name="Suite">
+<test name="test">
+<parameter  name="userName" value="Rahul"/>
+<classes>
+<class name="Automation.Selenium.ParamClass"/>
+</classes>
+</test>
+</suite>
